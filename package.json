@@ -1,0 +1,12 @@
+{
+	"name": "bomberman-js",
+	"version": "1.0",
+	"description": "A Bomberman game remake using html and javascript",
+	"main": "index.html",
+	"keywords": [
+		"javascript",
+		"gamedev",
+		"html"
+	],
+	"license": "MIT"
+}
